@@ -1,0 +1,12 @@
+.list {
+  display: inline;
+}
+
+.item {
+  list-style: none;
+}
+
+.text {
+  display: inline-block;
+  margin-right: 15px;
+}
